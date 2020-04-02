@@ -1,0 +1,5 @@
+Display,Series,Tag,Axis,Color
+True,red,Tag 1,Left,red
+True,green,Tag 2,Left,green
+False,blue,Tag 3,Right 1,blue
+False,magenta,Tag 4,Right 2,magenta
